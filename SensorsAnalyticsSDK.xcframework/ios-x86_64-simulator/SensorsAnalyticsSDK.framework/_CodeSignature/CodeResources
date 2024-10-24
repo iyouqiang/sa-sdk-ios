@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/SABaseStoreManager.h</key>
 		<data>
-		tEntqh2ZeliHStVfbNgKm0Ouq+I=
+		mbBlChEfeLL0kQlbdb3s5eRjPfA=
 		</data>
 		<key>Headers/SAConfigOptions+AppPush.h</key>
 		<data>
@@ -32,13 +32,17 @@
 		<data>
 		CZgIva3OGM6wMZSol9fQxWukFPI=
 		</data>
+		<key>Headers/SAConfigOptions+Exposure.h</key>
+		<data>
+		C6WxW498CDMWhgQQ+awTJApvqW8=
+		</data>
 		<key>Headers/SAConfigOptions+RemoteConfig.h</key>
 		<data>
 		w/SuJjOZ/vsZQnH9tfWi1TVm39s=
 		</data>
 		<key>Headers/SAConfigOptions.h</key>
 		<data>
-		3TgDyIY6DjQH/FVj+QpAH656+B8=
+		SdR2V2eSTeelPEHVuUVv0TzUeu0=
 		</data>
 		<key>Headers/SAConstants.h</key>
 		<data>
@@ -47,6 +51,18 @@
 		<key>Headers/SAEncryptProtocol.h</key>
 		<data>
 		3wusXvDC197jTQ4USA05OhcndtE=
+		</data>
+		<key>Headers/SAExposureConfig.h</key>
+		<data>
+		FoP38rYPEPiJ+GY2m7/CZyGvfSY=
+		</data>
+		<key>Headers/SAExposureData.h</key>
+		<data>
+		JVXYIgCFRdLcyLOMsI2hgnYvLsc=
+		</data>
+		<key>Headers/SAExposureListener.h</key>
+		<data>
+		zIKY8xhnRE3ZQ1tiJflOyiOEIXc=
 		</data>
 		<key>Headers/SAPropertyPlugin.h</key>
 		<data>
@@ -70,7 +86,7 @@
 		</data>
 		<key>Headers/SAStorePlugin.h</key>
 		<data>
-		EYtywrTfkizN5EV5I5z4C6Tp7SE=
+		S2R3oErnVKJjDzcHNQdcawxbTgM=
 		</data>
 		<key>Headers/SensorsAnalyticsExtension.h</key>
 		<data>
@@ -87,6 +103,10 @@
 		<key>Headers/SensorsAnalyticsSDK+DeviceOrientation.h</key>
 		<data>
 		Mk2jbOasXH3RcsZ47yEdHPLCCRk=
+		</data>
+		<key>Headers/SensorsAnalyticsSDK+Exposure.h</key>
+		<data>
+		Px2ppK405MIQpFkn4n2sHHKwq3E=
 		</data>
 		<key>Headers/SensorsAnalyticsSDK+JavaScriptBridge.h</key>
 		<data>
@@ -120,13 +140,17 @@
 		<data>
 		oQSsERZPaHrVghnS4HmPdQsJFMU=
 		</data>
+		<key>Headers/UIView+ExposureIdentifier.h</key>
+		<data>
+		tN4eNh7P6V3LxdghDyE+AZqyMfk=
+		</data>
 		<key>Headers/UIView+SensorsAnalytics.h</key>
 		<data>
 		FNesTpomtl8JzEMxSpT9EXR++pk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		atW7OwyVgOVH2ylaTMWTg+KY6D4=
+		7An14iufs/ejD2UG83dA+RY0haw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -141,6 +165,10 @@
 	<dict>
 		<key>Headers/SAAESStorePlugin.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4GyvRFfCpLsdf8ZDyhpAe4Dog3w=
+			</data>
 			<key>hash2</key>
 			<data>
 			VWrNXRoa+3wfK24/Gu3uS2uJswNRjuD6t9qs/aYAemQ=
@@ -148,6 +176,10 @@
 		</dict>
 		<key>Headers/SAAdvertisingConfig.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			x9PxCLkOvS65DXKVfNFgkPx5duE=
+			</data>
 			<key>hash2</key>
 			<data>
 			2lY4kf3LiC92UZZ6F0PKnp/TmhudpqMwkvUqihEsywU=
@@ -155,6 +187,10 @@
 		</dict>
 		<key>Headers/SAAppExtensionDataManager.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eukUG4C4McfO0wYQsnz20RTb+nk=
+			</data>
 			<key>hash2</key>
 			<data>
 			lH6Qbp2HhRhDjROj7oA+PoQDmgBQRoPBShLizJBmIgQ=
@@ -162,13 +198,21 @@
 		</dict>
 		<key>Headers/SABaseStoreManager.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			mbBlChEfeLL0kQlbdb3s5eRjPfA=
+			</data>
 			<key>hash2</key>
 			<data>
-			XjgRu7a8xcN9fGixwmOHItEO9ZG6/1d+rM+xXW1y6ys=
+			SIgKhrSD8Xx3ViRtQB3OxvG3GKSio2bskQhLeT8mT8I=
 			</data>
 		</dict>
 		<key>Headers/SAConfigOptions+AppPush.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NyQoGUZnHSJDVYjEhRUbWLhkw50=
+			</data>
 			<key>hash2</key>
 			<data>
 			ptIF+AjYdMM1Mk9LOUZpyZ+NKynOvLFAe35udGtI9+U=
@@ -176,6 +220,10 @@
 		</dict>
 		<key>Headers/SAConfigOptions+Encrypt.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oBGxjCbEgzyzCV1qFS/sqaXxnfs=
+			</data>
 			<key>hash2</key>
 			<data>
 			l2rRXVeoyPEccwf7746/YjEO9XXgdPpAG4sJ+CyFZnE=
@@ -183,13 +231,32 @@
 		</dict>
 		<key>Headers/SAConfigOptions+Exception.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			CZgIva3OGM6wMZSol9fQxWukFPI=
+			</data>
 			<key>hash2</key>
 			<data>
 			Y+kuur2Za3rvTEMrkT3xWV4jVX8IPjOHONk9xxjbvEQ=
 			</data>
 		</dict>
+		<key>Headers/SAConfigOptions+Exposure.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C6WxW498CDMWhgQQ+awTJApvqW8=
+			</data>
+			<key>hash2</key>
+			<data>
+			UZbWj6ITw6KV5kwUXrP1zC3zBuBvkyLizzyeSeRiadw=
+			</data>
+		</dict>
 		<key>Headers/SAConfigOptions+RemoteConfig.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			w/SuJjOZ/vsZQnH9tfWi1TVm39s=
+			</data>
 			<key>hash2</key>
 			<data>
 			aMftaq091+/taB1wfR3uTdrPFeAl3KDclOam7yohEGE=
@@ -197,13 +264,21 @@
 		</dict>
 		<key>Headers/SAConfigOptions.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			SdR2V2eSTeelPEHVuUVv0TzUeu0=
+			</data>
 			<key>hash2</key>
 			<data>
-			1iOESH40AAaDxFFXrAv3mAV6l+h6IYSTYM46ceyFK9c=
+			8iTMiBD9atBagu2E44pGtUh+7PFSymD/Kj8IsoUf6bM=
 			</data>
 		</dict>
 		<key>Headers/SAConstants.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FrAeV341hbAt5TiSh86q20XqGpg=
+			</data>
 			<key>hash2</key>
 			<data>
 			akb1XTjPNEWTSCxfZ5LvxLX7go2OGd27x8C1uvdkOrU=
@@ -211,13 +286,54 @@
 		</dict>
 		<key>Headers/SAEncryptProtocol.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			3wusXvDC197jTQ4USA05OhcndtE=
+			</data>
 			<key>hash2</key>
 			<data>
 			0nM/WmpcR/qzL7Y93fj9szbThJauucrXqRDN4cT1mOU=
 			</data>
 		</dict>
+		<key>Headers/SAExposureConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FoP38rYPEPiJ+GY2m7/CZyGvfSY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QD+Nukd/qIZnD4nltOUAUGZ3Mm4VnBxmpIxlN/ww2Vo=
+			</data>
+		</dict>
+		<key>Headers/SAExposureData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JVXYIgCFRdLcyLOMsI2hgnYvLsc=
+			</data>
+			<key>hash2</key>
+			<data>
+			eqCn5WrCoENACBTIOZZxF87i/idZVqiBn2j7IESP+QM=
+			</data>
+		</dict>
+		<key>Headers/SAExposureListener.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zIKY8xhnRE3ZQ1tiJflOyiOEIXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			zDfWkFsImSAEay98MNytmJtUiBbONhLPX6UNOxYWTm0=
+			</data>
+		</dict>
 		<key>Headers/SAPropertyPlugin.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			S2K6vAWhK4o1E5OI9CRa47+W3EQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			N9FKOTWV5WJp3A5QJveWSf45j0K6p4vlpH5Lm18XdZ0=
@@ -225,6 +341,10 @@
 		</dict>
 		<key>Headers/SASecretKey.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			vetO3AL7BA4UD7MZsS9ULPb8aj8=
+			</data>
 			<key>hash2</key>
 			<data>
 			ee0gb/8EkiaDTfEptP78iFJ68WyASoknOIbvwWMKnvE=
@@ -232,6 +352,10 @@
 		</dict>
 		<key>Headers/SASecurityPolicy.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			V3ifxlfmeJzdwipJw83qBmU7lc0=
+			</data>
 			<key>hash2</key>
 			<data>
 			/iJ9MVIOtJOYVZsL4T/2WGE2fMm3Hp9rsUsyc1EdOho=
@@ -239,6 +363,10 @@
 		</dict>
 		<key>Headers/SASlinkCreator.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QR/ipv/LGG3j3bJWMtLNghlv8Kc=
+			</data>
 			<key>hash2</key>
 			<data>
 			HE9YWAlxVuWHwtKhYksQwrKXyEBg1fIRsERDKfHzHr4=
@@ -246,6 +374,10 @@
 		</dict>
 		<key>Headers/SAStoreManager.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			S+YeQ8c1GSo8pehpK4VaFoGCu0A=
+			</data>
 			<key>hash2</key>
 			<data>
 			kMF0yKQKsO0FyQxeNH/4lIZqYJU2QddPS2+yGgW3G4o=
@@ -253,13 +385,21 @@
 		</dict>
 		<key>Headers/SAStorePlugin.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			S2R3oErnVKJjDzcHNQdcawxbTgM=
+			</data>
 			<key>hash2</key>
 			<data>
-			fEwo7AnoHI99d1lQIZo74oI99ZSmFMI7k7PljGj/nqk=
+			VztEsH2PG56/QPSBBHhxPbzDAG3SMSWCo3aowDr/1JU=
 			</data>
 		</dict>
 		<key>Headers/SensorsAnalyticsExtension.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			b62s/baz/b6g+P3sW9kTq6NYRu0=
+			</data>
 			<key>hash2</key>
 			<data>
 			0ql4CRkXEQdTnWLUpOKvpcrazXYza64caZW5FEAOnvM=
@@ -267,6 +407,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+DebugMode.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			YHWnnI3Ul6U4THGWKMD4kSHjU5M=
+			</data>
 			<key>hash2</key>
 			<data>
 			N4BBuO/LvjzG8ac+hklEgCWWFevUVbQohFFPwRPoJuY=
@@ -274,6 +418,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+DeepLink.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QlqgzdSF0BPCsHgc3o0zkj156GM=
+			</data>
 			<key>hash2</key>
 			<data>
 			T7VaAP5P/ipfneCdmTcHkxqxBxv7SM3fzrKIAu/tI7w=
@@ -281,13 +429,32 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+DeviceOrientation.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Mk2jbOasXH3RcsZ47yEdHPLCCRk=
+			</data>
 			<key>hash2</key>
 			<data>
 			vmhNIvzmJhXj/o6objgjxV0skHdsrSqy54ZZ4sWKfuQ=
 			</data>
 		</dict>
+		<key>Headers/SensorsAnalyticsSDK+Exposure.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Px2ppK405MIQpFkn4n2sHHKwq3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			TPnye5WnGaLukad6RBKG+eamuUOK5KQPXAlxqIIZInU=
+			</data>
+		</dict>
 		<key>Headers/SensorsAnalyticsSDK+JavaScriptBridge.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kyc+el+Gb7Rna8bfDJiCBeRUvcw=
+			</data>
 			<key>hash2</key>
 			<data>
 			zsPc/g/Hkas7T0nzjREpsBCqIDlHcdhxL/Mwr9ERK1E=
@@ -295,6 +462,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+Location.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KjmSEUk4NFtBIb9hRHLTEv4vLoI=
+			</data>
 			<key>hash2</key>
 			<data>
 			XumZfidt1zNsiVz4eb4rjE58nRtR/T2vC1HMZyij0eE=
@@ -302,6 +473,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+Public.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			YzPfzmDJrnT18RHv4MSqgvo3JkA=
+			</data>
 			<key>hash2</key>
 			<data>
 			+VRsP7IEaIJurjRS+05oBYPcw/cLzYuZaRTwBCEbp6g=
@@ -309,6 +484,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+SAAppExtension.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			EO1ZtbkMa3R7S76TnmYsUH68KpM=
+			</data>
 			<key>hash2</key>
 			<data>
 			UIQVisr5Ee9ILTvu1GX6cgNInyx1M3aHp5WoVq/RqVw=
@@ -316,6 +495,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+SAAutoTrack.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XTnWwNzzCXdmIHSIELqeXUYgrIg=
+			</data>
 			<key>hash2</key>
 			<data>
 			/h/DGmytEFSQK/rVOVFpJ69uJjEoLgCp+oJe8kfBt0g=
@@ -323,6 +506,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+SAChannelMatch.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			vBQmBSv5sdDjUaEmAIr2whOkS08=
+			</data>
 			<key>hash2</key>
 			<data>
 			qCa8Ccjp/5J3hKR2NePymj63tYlkaYVHcQrK6xtbFD0=
@@ -330,6 +517,10 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK+Visualized.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8x5Lh0JXDcl6L5Fz3IyD4EoGf/Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			Na3rZrAGO9/3nFMVdlZq8gnW0St6KXyVc/BvTGT4/M8=
@@ -337,13 +528,32 @@
 		</dict>
 		<key>Headers/SensorsAnalyticsSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oQSsERZPaHrVghnS4HmPdQsJFMU=
+			</data>
 			<key>hash2</key>
 			<data>
 			IABYffHODoYgTvfmVJUteGvNX2x/RQ6OCYfdlsv6w3I=
 			</data>
 		</dict>
+		<key>Headers/UIView+ExposureIdentifier.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tN4eNh7P6V3LxdghDyE+AZqyMfk=
+			</data>
+			<key>hash2</key>
+			<data>
+			bQtKn5ONYEtRYsNhM5LjDn/W9vqvCtlObvxblaG3cIQ=
+			</data>
+		</dict>
 		<key>Headers/UIView+SensorsAnalytics.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FNesTpomtl8JzEMxSpT9EXR++pk=
+			</data>
 			<key>hash2</key>
 			<data>
 			DMf9xSBLFaDYrynoAKFp9GTNaqzbErzHviK8ZsRgx0s=
@@ -351,6 +561,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			M28CzJQOMiZtnELWCLW+Ro8u83U=
+			</data>
 			<key>hash2</key>
 			<data>
 			6vxhwLv7GzZzb3zUcTpO9IVhuNewN38bHnWMV0l/1Ps=
@@ -358,6 +572,10 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			i0pskoOyBSXXBGoIf1LICpVAIrU=
+			</data>
 			<key>hash2</key>
 			<data>
 			Ndkiz3Rx3nzF6u8rtY/NymLB/vTDqOROSBywzXwyKRE=
